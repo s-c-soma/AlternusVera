@@ -1,0 +1,13 @@
+Pls Don't forget to  submit beforehand :-) if you want my comments, or share with me so I can comment before grading.
+
+1. Submit Paper. Format preferred is IEEE
+
+2. Submit collab or git or notebook
+
+3. Make sure you upload the data with the notebook. I.e., If on colab, or on notebook (.ipnyb) make sure the data can be loaded immediately without any setup from the teaching team!
+
+4. Make sure each person's contribution is clearly distinct and defined
+
+5. Make sure you are addressing at least one complex/ compound feature each person
+
+6. Output of project is a %truth scalar or vector, broken down into and showing the polyniomial for the truth vectors : a1x1+ a2x2+ anxn

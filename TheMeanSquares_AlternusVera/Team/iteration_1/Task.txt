@@ -1,0 +1,14 @@
+Please record a video of your project to date and submit . This is basically the same as you would do if you zoom with me :-) 
+
+Make sure you walk through the relevant details:
+
+0. Project definition (business value, narrative) , input, output what you intend to do
+
+1. Initial data set,
+2. enrichments
+3. sequence of steps
+4. Role of each team member
+5. algorithms used for multi class categorization/classification 
+6. factor of fake news you are addressing
+7. your alternus vera index equation
+8. how you are are doing distillation
